@@ -1,0 +1,1 @@
+As arrow functions têm seu momento de glória em tudo aquilo que exija que this esteja vinculado ao contexto, e não à própria função.

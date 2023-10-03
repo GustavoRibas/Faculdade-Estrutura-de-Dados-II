@@ -1,0 +1,14 @@
+ATV 1: Quais são os principais métodos de uma pilha?
+R:isEmpty, size, peek, pop, push
+
+ATV 2: Explique o que é o topo e a base de uma pilha. Sua resposta deve ter no mínimo 3 linhas.
+O topo refere-se à posição do elemento mais recentemente adicionado. É o único elemento que pode ser acessado e 
+removido diretamente. A base, por outro lado, é a posição do elemento que foi adicionado antes (o primeiro), 
+e encontra-se na parte de baixo da pilha. À medida que os elementos são adicionados e removidos, o topo da pilha pode mudar, 
+enquanto a base permanece fixa.
+
+ATV 3: Explique o princípio LIFO . Sua resposta deve ter no mínimo 3 linhas.
+Last In, First Out (LIFO), é um conceito fundamental em uma pilha. Ele estabelece que o último elemento adicionado à 
+pilha é o primeiro a ser removido. Em outras palavras, o elemento que está no topo da pilha é o primeiro a ser acessado e 
+retirado. Isso porque novos elementos são sempre adicionados no topo, empurrando os elementos anteriores para baixo. 
+Essa abordagem garante que o elemento mais recente tenha prioridade de acesso, mantendo a ordem de inserção dos elementos preservada.

@@ -1,0 +1,3 @@
+O código está filtrando os valores atuais do array, caso o valor atual seja menor que 40 ele será verdadeiro, caso contrario será falso, ele está fazendo isso criando a função
+isBelowThreshold, onde ele coloca o teto, que é o valor 40, e está filtrando diretamente no array com o metodo .every, que é uma função de prioridade, que analisa todos os valores
+do array e verifica com base no teto da função isBelowThreshold

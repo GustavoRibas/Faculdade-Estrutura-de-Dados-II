@@ -1,0 +1,1 @@
+Arrow functions não substituem funções regulares, então em qualquer contexto o qual necessita dessas funções, não se deve usar as arrow functions.

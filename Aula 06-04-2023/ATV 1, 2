@@ -1,0 +1,11 @@
+/*ATV 1 -
+Quando declaro um objeto com const, posso alterar o valor dos atributos dele mas não posso alterar o objeto por uma string.
+
+Esta afirmação é?
+Resposta: FALSA (errado), VERDADEIRA
+
+
+
+ATV 2 -
+JavaScript possui tipagem dinâmica, dessa forma não preciso declarar o tipo da variável, entretanto caso seja necessário, como é possível verificar o tipo de uma variável?
+Resposta: typof*/
